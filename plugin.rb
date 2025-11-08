@@ -3,7 +3,7 @@
 # name: discourse-yandex-oauth
 # about: Yandex ID OAuth2 authentication for Discourse
 # version: 1.0.0
-# authors: kaktaknet
+# authors: Discourse community
 # url: https://github.com/kaktaknet/discourse-yandex-oauth
 
 # CRITICAL: enabled_site_setting MUST be before any require statements
