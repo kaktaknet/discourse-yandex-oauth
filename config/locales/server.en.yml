@@ -1,0 +1,10 @@
+en:
+  site_settings:
+    yandex_enabled: "Enable Yandex authentication"
+    yandex_client_id: "Yandex OAuth Client ID"
+    yandex_client_secret: "Yandex OAuth Client Secret"
+    yandex_email_verified: "Trust Yandex email verification"
+
+  login:
+    authenticator_error_no_email: "Yandex did not return an email address"
+    authenticator_error_fetch_failed: "Failed to fetch user details from Yandex"

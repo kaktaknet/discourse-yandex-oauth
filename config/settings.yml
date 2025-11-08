@@ -1,0 +1,20 @@
+plugins:
+  yandex_enabled:
+    default: false
+    client: true
+    description: "Enable Yandex authentication"
+
+  yandex_client_id:
+    default: ""
+    description: "Yandex OAuth Client ID (get from https://oauth.yandex.ru)"
+    regex: "^[a-f0-9]*$"
+
+  yandex_client_secret:
+    default: ""
+    secret: true
+    description: "Yandex OAuth Client Secret"
+
+  yandex_email_verified:
+    default: true
+    client: true
+    description: "Trust email verification from Yandex (recommended: true)"

@@ -1,0 +1,14 @@
+// Yandex OAuth Button Styles
+// Applies Yandex brand color to the authentication button icon
+
+.btn-social.yandex {
+  // Yandex brand color for icon
+  .d-icon-fab-yandex {
+    color: #FC3F1D;
+  }
+
+  // Optional: Add hover effect
+  &:hover .d-icon-fab-yandex {
+    color: #E03919;
+  }
+}

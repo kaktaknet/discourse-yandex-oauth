@@ -1,0 +1,10 @@
+ru:
+  site_settings:
+    yandex_enabled: "Включить авторизацию через Яндекс"
+    yandex_client_id: "Yandex OAuth Client ID"
+    yandex_client_secret: "Yandex OAuth Client Secret"
+    yandex_email_verified: "Доверять проверке email от Яндекса"
+
+  login:
+    authenticator_error_no_email: "Яндекс не предоставил email адрес"
+    authenticator_error_fetch_failed: "Не удалось получить данные пользователя от Яндекса"
